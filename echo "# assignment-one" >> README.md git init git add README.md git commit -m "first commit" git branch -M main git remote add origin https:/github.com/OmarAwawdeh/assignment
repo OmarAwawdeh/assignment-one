@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {font-size: 60px;
+    text-align: center;    } 
+ 	p{
+			font-size: 30px;
+			display:inline; 
+			width: 200px;
+            margin: 80px;
+			padding-right: 150px, 150px,150px;
+            font-family: Calibri;
+           
+		}
+		div{       background: orange ;
+
+			width: 200px;
+			height: 200px;
+			overflow:auto;
+            display:inline-block;} 
+ span{
+ 	display:inline ;
+ 	font-size: 10px;
+	 font-family: Calibri;
+      }
+
+ .b1{
+ 	margin-right:7.5px; 
+ 	margin-left: 60px;
+ }
+
+
+	.b2{
+ 	margin-right: 2.5px; 
+ }
+.ch{
+	position: relative;
+ 	left:  165px;
+ 	background: blue;
+}
+
+.me{
+	position: relative;
+ 	left:  170px; 
+ 	font: bold;
+    background: pink;
+}
+
+.sh{
+	position: relative;
+ 	left:  175px;
+ 	background: green;
+}
+</style>
+</head>
+<body>
+		<h1> Our Menu<br><br></h1>
+	
+<div class="b1"><span class="ch"> chicken </span> 
+	<br>unbelievable chicken  </div>
+ <div class="b2"><span class="me">  beef  </span>
+<br>One of one beef </div>
+<div class="y"><span class="sh"> sushi </span>
+<br>Traditional Sushi by Chinese cheef.</div>
+ 
+</body>
+</html>
